@@ -1,0 +1,5 @@
+# in this file we specify the files we don't need while copying 
+
+/node_modules
+Dockerfile
+
