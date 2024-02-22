@@ -14,7 +14,7 @@ RUN npm install
 COPY . .
 
 # run the app
-CMD ["npm","start"]
+CMD ["npm","run","start-dev"]
 
 # specify the port
 EXPOSE 4000
