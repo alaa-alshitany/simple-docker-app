@@ -1,5 +1,5 @@
 #base stage 
-FROM node:14 as base
+FROM node as base
 
 
 # for development env
